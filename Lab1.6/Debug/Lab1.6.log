@@ -1,0 +1,7 @@
+﻿  Lab1.6.cpp
+C:\Users\rosty\source\repos\Lab1.6\Student.h(23,30): warning C4101: value: неиспользованная локальная переменная
+C:\Users\rosty\source\repos\Lab1.6\Student.h(24,29): error C2082: переопределение формального параметра "male"
+  Student.cpp
+C:\Users\rosty\source\repos\Lab1.6\Student.h(23,30): warning C4101: value: неиспользованная локальная переменная
+C:\Users\rosty\source\repos\Lab1.6\Student.h(24,29): error C2082: переопределение формального параметра "male"
+  Создание кода...
